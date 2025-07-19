@@ -10,4 +10,4 @@ This is a simple simulation of a reflex-based vacuum cleaner agent using Python 
 
 ## How to Run
 ```bash
-python Vacuum_Cleaner_gui.py
+python Vacuum_Cleaner.ipynb
